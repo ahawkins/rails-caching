@@ -1,0 +1,9 @@
+baseURL = "https://railscaching.com"
+languageCode = "en-us"
+title = "Rails Caching Guide"
+theme = "book"
+pygmentsCodeFences = true
+
+[params]
+	BookSection = "guide"
+	BookMenuBundle = "guide/menu"
